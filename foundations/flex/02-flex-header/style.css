@@ -15,6 +15,7 @@
 }
 
 ul {
+  background-color: red;
   /* this removes the dots on the list items*/
   list-style-type: none;
 }
