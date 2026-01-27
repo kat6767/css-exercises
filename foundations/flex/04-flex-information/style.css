@@ -10,6 +10,9 @@ body {
   text-align: center;
 }
 
+.text{
+  width: 200px;
+}
 img {
   width: 100px;
   height: 100px;
