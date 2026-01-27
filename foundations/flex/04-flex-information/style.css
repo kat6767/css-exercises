@@ -2,6 +2,11 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.img-container, .txt-container{
+  display: flex;
+  justify-content: space-around;
+}
+
 img {
   width: 100px;
   height: 100px;
