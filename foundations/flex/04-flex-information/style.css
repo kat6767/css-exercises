@@ -6,6 +6,8 @@ body {
 .img-container, .txt-container{
   display: flex;
   justify-content: space-around;
+  gap: 52px;
+  text-align: center;
 }
 
 img {
