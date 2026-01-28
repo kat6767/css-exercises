@@ -48,6 +48,10 @@ a{
   padding: 15px;
 }
 
+.footer{
+  background-color: #eeeeee;
+}
+
 .content{
   flex-grow: 2;
   display: flex;
