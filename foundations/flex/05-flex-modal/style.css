@@ -75,4 +75,6 @@ button.cancel {
 .header-container{
   display: flex;
   justify-content: space-between;
+  font-weight: bolder;
+  font-size: larger;
 }
