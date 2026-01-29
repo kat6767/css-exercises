@@ -52,6 +52,7 @@ body {
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
+  padding: 48px; 
 }
 
 ul{
